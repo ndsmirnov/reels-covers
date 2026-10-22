@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:56",
+ "updated": "2026-10-22T09:11",
  "docs": {
   "R35": {
    "pub": {
@@ -23,9 +23,6 @@
      "views": 226,
      "likes": 3,
      "comments": 2,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "8.4 с",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -34,78 +31,7 @@
      "views": 84,
      "likes": 0,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "2.5 с",
-     "label": "срез 22.10",
-     "at": "2026-10-22T00:36"
-    }
-   },
-   "stage": "выложен"
-  },
-  "R34": {
-   "pub": {
-    "ig": {
-     "state": "published",
-     "at": "2026-10-14T16:15",
-     "src": "вручную",
-     "url": "https://www.instagram.com/reel/Deed1dXN-g1/",
-     "note": null
-    },
-    "yt": {
-     "state": "published",
-     "at": "2026-10-09T18:24",
-     "src": "вручную",
-     "url": "https://youtube.com/shorts/CqQd1G96GCs",
-     "note": null
-    },
-    "th": {
-     "state": "published",
-     "at": "2026-10-09T12:52",
-     "src": "вручную",
-     "url": "https://www.threads.com/@poet.smirnov/post/DeROtaUiArd",
-     "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-10-23T23:52",
-     "src": "облако",
-     "url": null,
-     "note": "очередь Buffer"
-    }
-   },
-   "stats": {
-    "ig": {
-     "views": 1798,
-     "likes": 23,
-     "comments": 2,
-     "n": 1,
-     "trial": 1898,
-     "trial_n": 2,
-     "watch": "11.6 с / 40%",
-     "label": "срез 22.10",
-     "at": "2026-10-22T00:36"
-    },
-    "yt": {
-     "views": 2453,
-     "likes": 50,
-     "comments": 1,
-     "n": 2,
-     "trial": 0,
-     "trial_n": 0,
-     "watch": "17 с / 41%",
-     "label": "срез 22.10",
-     "at": "2026-10-22T00:36"
-    },
-    "th": {
-     "views": 35,
-     "likes": 0,
-     "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
-     "watch": null,
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
     }
@@ -148,9 +74,6 @@
      "views": 352,
      "likes": 8,
      "comments": 5,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "9.8 с / 35%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -159,9 +82,6 @@
      "views": 1910,
      "likes": 25,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "14 с / 49%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -170,9 +90,6 @@
      "views": 4,
      "likes": 0,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": null,
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -216,9 +133,6 @@
      "views": 576,
      "likes": 12,
      "comments": 0,
-     "n": 1,
-     "trial": 144,
-     "trial_n": 1,
      "watch": "10.5 с / 37%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -227,9 +141,6 @@
      "views": 1596,
      "likes": 36,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "13 с / 48%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -238,9 +149,65 @@
      "views": 11,
      "likes": 0,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
+     "watch": null,
+     "label": "срез 22.10",
+     "at": "2026-10-22T00:36"
+    }
+   },
+   "stage": "выложен"
+  },
+  "R34": {
+   "pub": {
+    "ig": {
+     "state": "published",
+     "at": "2026-10-14T16:15",
+     "src": "вручную",
+     "url": "https://www.instagram.com/reel/Deed1dXN-g1/",
+     "note": null
+    },
+    "yt": {
+     "state": "published",
+     "at": "2026-10-09T18:24",
+     "src": "вручную",
+     "url": "https://youtube.com/shorts/CqQd1G96GCs",
+     "note": null
+    },
+    "th": {
+     "state": "published",
+     "at": "2026-10-09T12:52",
+     "src": "вручную",
+     "url": "https://www.threads.com/@poet.smirnov/post/DeROtaUiArd",
+     "note": null
+    },
+    "tt": {
+     "state": "queue",
+     "at": "2026-10-23T23:52",
+     "src": "облако",
+     "url": null,
+     "note": "очередь Buffer"
+    }
+   },
+   "stats": {
+    "ig": {
+     "views": 1798,
+     "likes": 23,
+     "comments": 2,
+     "watch": "11.6 с / 40%",
+     "label": "срез 22.10",
+     "at": "2026-10-22T00:36"
+    },
+    "yt": {
+     "views": 1146,
+     "likes": 18,
+     "comments": 1,
+     "watch": "17 с / 41%",
+     "label": "срез 22.10",
+     "at": "2026-10-22T00:36"
+    },
+    "th": {
+     "views": 35,
+     "likes": 0,
+     "comments": 0,
      "watch": null,
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -277,9 +244,6 @@
      "views": 663,
      "likes": 10,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "10.2 с / 38%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -288,9 +252,6 @@
      "views": 1458,
      "likes": 14,
      "comments": 1,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "15 с / 54%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -327,9 +288,6 @@
      "views": 1221,
      "likes": 31,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "11.8 с / 44%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -338,9 +296,6 @@
      "views": 1630,
      "likes": 40,
      "comments": 1,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "14 с / 51%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -377,9 +332,6 @@
      "views": 260,
      "likes": 5,
      "comments": 2,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "10.4 с / 36%",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -388,9 +340,6 @@
      "views": 1424,
      "likes": 28,
      "comments": 1,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": null,
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
@@ -399,9 +348,6 @@
      "views": 0,
      "likes": 0,
      "comments": 0,
-     "n": 1,
-     "trial": 0,
-     "trial_n": 0,
      "watch": "5.9 с",
      "label": "срез 22.10",
      "at": "2026-10-22T00:36"
