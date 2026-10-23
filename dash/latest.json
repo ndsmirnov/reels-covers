@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:25",
+ "updated": "2026-10-23T23:41",
  "docs": {
   "R35": {
    "pub": {
@@ -20,20 +20,20 @@
    },
    "stats": {
     "ig": {
-     "views": 248,
+     "views": 256,
      "likes": 3,
      "comments": 2,
      "watch": "8.8 с / 19%",
-     "label": "24 ч",
-     "at": "2026-10-22T20:21"
+     "label": "48 ч",
+     "at": "2026-10-23T23:41"
     },
     "tt": {
-     "views": 264,
+     "views": 266,
      "likes": 2,
      "comments": 0,
-     "watch": "2.5 с",
-     "label": "24 ч",
-     "at": "2026-10-22T20:21"
+     "watch": "3.8 с",
+     "label": "48 ч",
+     "at": "2026-10-23T23:41"
     }
    },
    "stage": "выложен"
@@ -180,11 +180,11 @@
      "note": null
     },
     "tt": {
-     "state": "queue",
-     "at": "2026-10-23T22:52",
+     "state": "published",
+     "at": "2026-10-23T22:53",
      "src": "облако",
-     "url": null,
-     "note": "очередь Buffer"
+     "url": "https://tiktok.com/@poet.smirnov/video/7699953536783764769",
+     "note": null
     }
    },
    "stats": {
