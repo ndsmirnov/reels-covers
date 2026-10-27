@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:05",
+ "updated": "2026-10-27T08:15",
  "docs": {
   "R35": {
    "pub": {
@@ -308,10 +308,10 @@
      "note": null
     },
     "tt": {
-     "state": "queue",
-     "at": "2026-10-27T07:52",
+     "state": "published",
+     "at": "2026-10-27T07:53",
      "src": "облако",
-     "url": null,
+     "url": "https://tiktok.com/@poet.smirnov/video/7701205819844611360",
      "note": "очередь Buffer"
     }
    },
