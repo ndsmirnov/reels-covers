@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:14",
+ "updated": "2026-10-30T00:20",
  "docs": {
   "R35": {
    "pub": {
@@ -809,6 +809,39 @@
     }
    },
    "stage": "выложен"
+  },
+  "R27": {
+   "pub": {
+    "ig": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "yt": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "th": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "tt": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": "в очередь Buffer после выхода Инсты"
+    }
+   },
+   "stats": {}
   }
  }
 }
