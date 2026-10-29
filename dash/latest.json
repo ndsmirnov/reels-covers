@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:35",
+ "updated": "2026-10-29T16:06",
  "docs": {
   "R35": {
    "pub": {
@@ -782,7 +782,32 @@
      "note": "очередь Buffer"
     }
    },
-   "stats": {},
+   "stats": {
+    "ig": {
+     "views": 108,
+     "likes": 0,
+     "comments": 0,
+     "watch": "6.0 с",
+     "label": "2 ч",
+     "at": "2026-10-29T16:06"
+    },
+    "yt": {
+     "views": 263,
+     "likes": 1,
+     "comments": 0,
+     "watch": null,
+     "label": "2 ч",
+     "at": "2026-10-29T16:06"
+    },
+    "th": {
+     "views": 34,
+     "likes": 2,
+     "comments": 1,
+     "watch": null,
+     "label": "2 ч",
+     "at": "2026-10-29T16:06"
+    }
+   },
    "stage": "выложен"
   }
  }
