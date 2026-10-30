@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:03",
+ "updated": "2026-10-30T09:05",
  "docs": {
   "R35": {
    "pub": {
@@ -395,39 +395,6 @@
    },
    "stage": "выложен"
   },
-  "R29": {
-   "pub": {
-    "ig": {
-     "state": "queue",
-     "at": "2026-10-30T08:30",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "yt": {
-     "state": "queue",
-     "at": "2026-10-30T08:30",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "th": {
-     "state": "queue",
-     "at": "2026-10-30T08:30",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-10-30T08:30",
-     "src": "облако",
-     "url": null,
-     "note": "в очередь Buffer после выхода Инсты"
-    }
-   },
-   "stats": {}
-  },
   "R17": {
    "pub": {
     "ig": {
@@ -725,28 +692,28 @@
    },
    "stats": {
     "ig": {
-     "views": 225,
-     "likes": 6,
+     "views": 273,
+     "likes": 7,
      "comments": 3,
-     "watch": "8.7 с / 35%",
-     "label": "12 ч",
-     "at": "2026-10-29T21:14"
+     "watch": "8.6 с / 35%",
+     "label": "24 ч",
+     "at": "2026-10-30T09:04"
     },
     "yt": {
-     "views": 405,
-     "likes": 1,
+     "views": 485,
+     "likes": 3,
      "comments": 0,
      "watch": null,
-     "label": "12 ч",
-     "at": "2026-10-29T21:14"
+     "label": "24 ч",
+     "at": "2026-10-30T09:05"
     },
     "th": {
-     "views": 41,
+     "views": 43,
      "likes": 0,
      "comments": 1,
      "watch": null,
-     "label": "12 ч",
-     "at": "2026-10-29T21:14"
+     "label": "24 ч",
+     "at": "2026-10-30T09:05"
     }
    },
    "stage": "выложен"
@@ -842,6 +809,40 @@
     }
    },
    "stats": {}
+  },
+  "R29": {
+   "pub": {
+    "ig": {
+     "state": "published",
+     "at": "2026-10-30T08:47",
+     "src": "облако",
+     "url": "https://www.instagram.com/reel/DfG3Uz8jWc1/",
+     "note": null
+    },
+    "yt": {
+     "state": "published",
+     "at": "2026-10-30T08:47",
+     "src": "облако",
+     "url": "https://youtube.com/shorts/ec5ZUg57twc",
+     "note": null
+    },
+    "th": {
+     "state": "published",
+     "at": "2026-10-30T08:48",
+     "src": "облако",
+     "url": "https://www.threads.com/@poet.smirnov/post/DfG3bxLk44N",
+     "note": null
+    },
+    "tt": {
+     "state": "queue",
+     "at": "2026-11-01T09:24",
+     "src": "облако",
+     "url": null,
+     "note": "очередь Buffer"
+    }
+   },
+   "stats": {},
+   "stage": "выложен"
   }
  }
 }
