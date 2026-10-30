@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:07",
+ "updated": "2026-10-30T23:09",
  "docs": {
   "R35": {
    "pub": {
@@ -233,8 +233,8 @@
      "likes": 3,
      "comments": 0,
      "watch": "5.0 с",
-     "label": "120 ч",
-     "at": "2026-10-28T23:11"
+     "label": "168 ч",
+     "at": "2026-10-30T23:09"
     }
    },
    "stage": "выложен"
@@ -683,10 +683,10 @@
      "note": null
     },
     "tt": {
-     "state": "queue",
-     "at": "2026-10-30T22:52",
+     "state": "published",
+     "at": "2026-10-30T22:53",
      "src": "облако",
-     "url": null,
+     "url": "https://tiktok.com/@poet.smirnov/video/7702551125190282528",
      "note": "очередь Buffer"
     }
    },
