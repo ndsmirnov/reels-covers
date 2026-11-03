@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:51",
+ "updated": "2026-11-03T09:22",
  "docs": {
   "R35": {
    "pub": {
@@ -714,39 +714,6 @@
    },
    "stage": "выложен"
   },
-  "R19": {
-   "pub": {
-    "ig": {
-     "state": "queue",
-     "at": "2026-11-03T08:30",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "yt": {
-     "state": "queue",
-     "at": "2026-11-03T08:30",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "th": {
-     "state": "queue",
-     "at": "2026-11-03T08:30",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-11-03T08:30",
-     "src": "облако",
-     "url": null,
-     "note": "в очередь Buffer после выхода Инсты"
-    }
-   },
-   "stats": {}
-  },
   "R13": {
    "pub": {
     "ig": {
@@ -969,6 +936,40 @@
      "at": "2026-11-03T03:44"
     }
    },
+   "stage": "выложен"
+  },
+  "R19": {
+   "pub": {
+    "ig": {
+     "state": "published",
+     "at": "2026-11-03T08:57",
+     "src": "облако",
+     "url": "https://www.instagram.com/reel/DfRLmhQlv0q/",
+     "note": null
+    },
+    "yt": {
+     "state": "published",
+     "at": "2026-11-03T08:57",
+     "src": "облако",
+     "url": "https://youtube.com/shorts/byH27G77hc8",
+     "note": null
+    },
+    "th": {
+     "state": "published",
+     "at": "2026-11-03T08:58",
+     "src": "облако",
+     "url": "https://www.threads.com/@poet.smirnov/post/DfRLuB9Piug",
+     "note": null
+    },
+    "tt": {
+     "state": "queue",
+     "at": "2026-11-08T09:24",
+     "src": "облако",
+     "url": null,
+     "note": "очередь Buffer"
+    }
+   },
+   "stats": {},
    "stage": "выложен"
   }
  }
