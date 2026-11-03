@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:22",
+ "updated": "2026-11-03T09:53",
  "docs": {
   "R35": {
    "pub": {
@@ -422,7 +422,7 @@
      "state": "published",
      "at": "2026-10-30T22:53",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7702551125190282528",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7702551125190282528",
      "note": "очередь Buffer"
     }
    },
@@ -489,7 +489,7 @@
      "state": "published",
      "at": "2026-10-31T08:20",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7702697152597740832",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7702697152597740832",
      "note": "очередь Buffer"
     }
    },
@@ -556,7 +556,7 @@
      "state": "published",
      "at": "2026-11-01T09:25",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7703085062551506208",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7703085062551506208",
      "note": "очередь Buffer"
     }
    },
@@ -586,12 +586,12 @@
      "at": "2026-11-02T09:05"
     },
     "tt": {
-     "views": 185,
-     "likes": 1,
+     "views": 188,
+     "likes": 2,
      "comments": 0,
-     "watch": "2.2 с",
-     "label": "24 ч",
-     "at": "2026-11-02T09:36"
+     "watch": "4.7 с",
+     "label": "48 ч",
+     "at": "2026-11-03T09:52"
     }
    },
    "stage": "выложен"
@@ -623,7 +623,7 @@
      "state": "published",
      "at": "2026-11-03T07:53",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7703803373568462113",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7703803373568462113",
      "note": "очередь Buffer"
     }
    },
@@ -912,28 +912,28 @@
    },
    "stats": {
     "ig": {
-     "views": 218,
+     "views": 221,
      "likes": 2,
      "comments": 0,
      "watch": "4.7 с / 20%",
-     "label": "6 ч",
-     "at": "2026-11-03T03:44"
+     "label": "12 ч",
+     "at": "2026-11-03T09:53"
     },
     "yt": {
-     "views": 902,
-     "likes": 20,
+     "views": 1004,
+     "likes": 19,
      "comments": 0,
      "watch": null,
-     "label": "6 ч",
-     "at": "2026-11-03T03:44"
+     "label": "12 ч",
+     "at": "2026-11-03T09:53"
     },
     "th": {
-     "views": 25,
+     "views": 26,
      "likes": 0,
      "comments": 0,
      "watch": null,
-     "label": "6 ч",
-     "at": "2026-11-03T03:44"
+     "label": "12 ч",
+     "at": "2026-11-03T09:53"
     }
    },
    "stage": "выложен"
