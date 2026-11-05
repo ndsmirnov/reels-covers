@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:33",
+ "updated": "2026-11-05T09:04",
  "docs": {
   "R35": {
    "pub": {
@@ -428,28 +428,28 @@
    },
    "stats": {
     "ig": {
-     "views": 311,
+     "views": 312,
      "likes": 9,
      "comments": 3,
      "watch": "8.7 с / 35%",
-     "label": "120 ч",
-     "at": "2026-11-03T08:51"
+     "label": "168 ч",
+     "at": "2026-11-05T09:04"
     },
     "yt": {
      "views": 527,
      "likes": 4,
      "comments": 0,
      "watch": "12 с / 50%",
-     "label": "120 ч",
-     "at": "2026-11-03T08:51"
+     "label": "168 ч",
+     "at": "2026-11-05T09:04"
     },
     "th": {
      "views": 45,
      "likes": 0,
      "comments": 1,
      "watch": null,
-     "label": "120 ч",
-     "at": "2026-11-03T08:51"
+     "label": "168 ч",
+     "at": "2026-11-05T09:04"
     },
     "tt": {
      "views": 237,
@@ -979,28 +979,28 @@
    },
    "stats": {
     "ig": {
-     "views": 233,
-     "likes": 4,
+     "views": 247,
+     "likes": 7,
      "comments": 0,
      "watch": "10.7 с / 37%",
-     "label": "24 ч",
-     "at": "2026-11-04T08:58"
+     "label": "48 ч",
+     "at": "2026-11-05T09:03"
     },
     "yt": {
-     "views": 298,
-     "likes": 2,
+     "views": 521,
+     "likes": 6,
      "comments": 0,
      "watch": null,
-     "label": "24 ч",
-     "at": "2026-11-04T08:58"
+     "label": "48 ч",
+     "at": "2026-11-05T09:04"
     },
     "th": {
      "views": 9,
      "likes": 0,
      "comments": 0,
      "watch": null,
-     "label": "24 ч",
-     "at": "2026-11-04T09:28"
+     "label": "48 ч",
+     "at": "2026-11-05T09:04"
     }
    },
    "stage": "выложен"
