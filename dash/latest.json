@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:56",
+ "updated": "2026-11-08T09:27",
  "docs": {
   "R35": {
    "pub": {
@@ -99,8 +99,8 @@
      "likes": 4,
      "comments": 0,
      "watch": "3.6 с",
-     "label": "240 ч",
-     "at": "2026-11-04T09:28"
+     "label": "336 ч",
+     "at": "2026-11-08T09:27"
     }
    },
    "stage": "выложен"
@@ -586,12 +586,12 @@
      "at": "2026-11-06T11:57"
     },
     "tt": {
-     "views": 189,
+     "views": 190,
      "likes": 2,
      "comments": 0,
      "watch": "4.7 с",
-     "label": "120 ч",
-     "at": "2026-11-06T11:57"
+     "label": "168 ч",
+     "at": "2026-11-08T09:27"
     }
    },
    "stage": "выложен"
@@ -887,37 +887,37 @@
      "note": null
     },
     "tt": {
-     "state": "queue",
-     "at": "2026-11-08T09:24",
+     "state": "published",
+     "at": "2026-11-08T09:25",
      "src": "облако",
-     "url": null,
+     "url": "https://tiktok.com/@poet.smirnov/video/7705682600928562464",
      "note": "очередь Buffer"
     }
    },
    "stats": {
     "ig": {
-     "views": 256,
+     "views": 276,
      "likes": 8,
      "comments": 0,
-     "watch": "11.1 с / 38%",
-     "label": "72 ч",
-     "at": "2026-11-06T11:57"
+     "watch": "11.5 с / 40%",
+     "label": "120 ч",
+     "at": "2026-11-08T09:27"
     },
     "yt": {
-     "views": 549,
+     "views": 554,
      "likes": 7,
      "comments": 0,
-     "watch": "15 с / 51%",
-     "label": "72 ч",
-     "at": "2026-11-06T11:57"
+     "watch": "15 с / 53%",
+     "label": "120 ч",
+     "at": "2026-11-08T09:27"
     },
     "th": {
      "views": 9,
      "likes": 0,
      "comments": 0,
      "watch": null,
-     "label": "72 ч",
-     "at": "2026-11-06T11:57"
+     "label": "120 ч",
+     "at": "2026-11-08T09:27"
     }
    },
    "stage": "выложен"
