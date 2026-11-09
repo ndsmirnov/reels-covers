@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:59",
+ "updated": "2026-11-09T21:37",
  "docs": {
   "R35": {
    "pub": {
@@ -730,72 +730,6 @@
    },
    "stage": "выложен"
   },
-  "R30": {
-   "pub": {
-    "ig": {
-     "state": "queue",
-     "at": "2026-11-09T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "yt": {
-     "state": "queue",
-     "at": "2026-11-09T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "th": {
-     "state": "queue",
-     "at": "2026-11-09T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-11-09T21:00",
-     "src": "облако",
-     "url": null,
-     "note": "в очередь Buffer после выхода Инсты"
-    }
-   },
-   "stats": {}
-  },
-  "R27": {
-   "pub": {
-    "ig": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "yt": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "th": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": "в очередь Buffer после выхода Инсты"
-    }
-   },
-   "stats": {}
-  },
   "R20": {
    "pub": {
     "ig": {
@@ -829,28 +763,28 @@
    },
    "stats": {
     "ig": {
-     "views": 244,
+     "views": 245,
      "likes": 3,
      "comments": 0,
-     "watch": "5.0 с / 21%",
-     "label": "неделя до 08.11",
-     "at": "2026-11-08T21:14"
+     "watch": "4.9 с / 21%",
+     "label": "168 ч",
+     "at": "2026-11-09T21:37"
     },
     "yt": {
      "views": 1037,
      "likes": 19,
      "comments": 0,
      "watch": "16 с / 66%",
-     "label": "неделя до 08.11",
-     "at": "2026-11-08T21:14"
+     "label": "168 ч",
+     "at": "2026-11-09T21:37"
     },
     "th": {
-     "views": 26,
+     "views": 27,
      "likes": 0,
      "comments": 0,
      "watch": null,
-     "label": "неделя до 08.11",
-     "at": "2026-11-08T21:14"
+     "label": "168 ч",
+     "at": "2026-11-09T21:37"
     },
     "tt": {
      "views": 606,
@@ -1085,6 +1019,72 @@
     }
    },
    "stage": "выложен"
+  },
+  "R30": {
+   "pub": {
+    "ig": {
+     "state": "queue",
+     "at": "2026-11-09T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "yt": {
+     "state": "queue",
+     "at": "2026-11-09T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "th": {
+     "state": "queue",
+     "at": "2026-11-09T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "tt": {
+     "state": "queue",
+     "at": "2026-11-09T21:00",
+     "src": "облако",
+     "url": null,
+     "note": "в очередь Buffer после выхода Инсты"
+    }
+   },
+   "stats": {}
+  },
+  "R27": {
+   "pub": {
+    "ig": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "yt": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "th": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": null
+    },
+    "tt": {
+     "state": "queue",
+     "at": "2026-11-12T21:00",
+     "src": "облако",
+     "url": null,
+     "note": "в очередь Buffer после выхода Инсты"
+    }
+   },
+   "stats": {}
   }
  }
 }
