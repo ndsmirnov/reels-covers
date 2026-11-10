@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:44",
+ "updated": "2026-11-10T04:46",
  "docs": {
   "R35": {
    "pub": {
@@ -1051,7 +1051,32 @@
      "note": null
     }
    },
-   "stats": {},
+   "stats": {
+    "ig": {
+     "views": 118,
+     "likes": 1,
+     "comments": 0,
+     "watch": "5.6 с",
+     "label": "2 ч",
+     "at": "2026-11-10T04:46"
+    },
+    "yt": {
+     "views": 188,
+     "likes": 2,
+     "comments": 0,
+     "watch": null,
+     "label": "2 ч",
+     "at": "2026-11-10T04:46"
+    },
+    "th": {
+     "views": 30,
+     "likes": 0,
+     "comments": 0,
+     "watch": null,
+     "label": "2 ч",
+     "at": "2026-11-10T04:46"
+    }
+   },
    "stage": "выложен"
   },
   "R27": {
