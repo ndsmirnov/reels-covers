@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:10",
+ "updated": "2026-11-10T21:18",
  "docs": {
   "R35": {
    "pub": {
@@ -1042,13 +1042,6 @@
      "src": "облако",
      "url": "https://www.threads.com/@poet.smirnov/post/DfigZT3gwYF",
      "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-11-09T21:00",
-     "src": "облако",
-     "url": null,
-     "note": "в очередь Buffer после выхода Инсты"
     }
    },
    "stats": {
@@ -1078,39 +1071,6 @@
     }
    },
    "stage": "выложен"
-  },
-  "R27": {
-   "pub": {
-    "ig": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "yt": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "th": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": null
-    },
-    "tt": {
-     "state": "queue",
-     "at": "2026-11-12T21:00",
-     "src": "облако",
-     "url": null,
-     "note": "в очередь Buffer после выхода Инсты"
-    }
-   },
-   "stats": {}
   }
  }
 }
