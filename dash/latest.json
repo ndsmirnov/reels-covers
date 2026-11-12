@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T01:15",
+ "updated": "2026-11-13T02:47",
  "docs": {
   "R35": {
    "pub": {
@@ -1046,28 +1046,28 @@
    },
    "stats": {
     "ig": {
-     "views": 177,
+     "views": 181,
      "likes": 3,
      "comments": 0,
-     "watch": "6.0 с / 21%",
-     "label": "48 ч",
-     "at": "2026-11-12T02:41"
+     "watch": "5.8 с / 21%",
+     "label": "72 ч",
+     "at": "2026-11-13T02:46"
     },
     "yt": {
-     "views": 1077,
+     "views": 1088,
      "likes": 14,
      "comments": 0,
      "watch": "13 с / 45%",
-     "label": "48 ч",
-     "at": "2026-11-12T02:41"
+     "label": "72 ч",
+     "at": "2026-11-13T02:47"
     },
     "th": {
      "views": 36,
      "likes": 0,
      "comments": 0,
      "watch": null,
-     "label": "48 ч",
-     "at": "2026-11-12T02:41"
+     "label": "72 ч",
+     "at": "2026-11-13T02:47"
     }
    },
    "stage": "выложен"
@@ -1103,7 +1103,32 @@
      "note": null
     }
    },
-   "stats": {},
+   "stats": {
+    "ig": {
+     "views": 157,
+     "likes": 0,
+     "comments": 0,
+     "watch": "10.0 с",
+     "label": "2 ч",
+     "at": "2026-11-13T02:47"
+    },
+    "yt": {
+     "views": 839,
+     "likes": 2,
+     "comments": 0,
+     "watch": null,
+     "label": "2 ч",
+     "at": "2026-11-13T02:47"
+    },
+    "th": {
+     "views": 4,
+     "likes": 0,
+     "comments": 0,
+     "watch": null,
+     "label": "2 ч",
+     "at": "2026-11-13T02:47"
+    }
+   },
    "stage": "выложен"
   }
  }
