@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:18",
+ "updated": "2026-11-21T00:20",
  "docs": {
   "R35": {
    "pub": {
@@ -690,7 +690,7 @@
      "state": "published",
      "at": "2026-11-06T22:53",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7705148718697155872",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7705148718697155872",
      "note": "очередь Buffer"
     }
    },
@@ -757,7 +757,7 @@
      "state": "published",
      "at": "2026-11-07T08:20",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7705294766904200481",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7705294766904200481",
      "note": "очередь Buffer"
     }
    },
@@ -787,12 +787,12 @@
      "at": "2026-11-16T21:50"
     },
     "tt": {
-     "views": 606,
+     "views": 615,
      "likes": 3,
      "comments": 0,
-     "watch": "2.9 с",
-     "label": "неделя до 08.11",
-     "at": "2026-11-08T21:15"
+     "watch": "2.6 с",
+     "label": "≈328 ч (опоздал)",
+     "at": "2026-11-21T00:20"
     }
    },
    "stage": "выложен"
@@ -824,7 +824,7 @@
      "state": "published",
      "at": "2026-11-08T09:25",
      "src": "облако",
-     "url": "https://tiktok.com/@poet.smirnov/video/7705682600928562464",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7705682600928562464",
      "note": "очередь Buffer"
     }
    },
@@ -854,12 +854,12 @@
      "at": "2026-11-17T09:13"
     },
     "tt": {
-     "views": 485,
-     "likes": 10,
+     "views": 702,
+     "likes": 15,
      "comments": 0,
-     "watch": null,
-     "label": "неделя до 08.11",
-     "at": "2026-11-08T21:45"
+     "watch": "5.0 с",
+     "label": "≈303 ч (опоздал)",
+     "at": "2026-11-21T00:20"
     }
    },
    "stage": "выложен"
@@ -885,6 +885,13 @@
      "at": "2026-11-05T23:39",
      "src": "облако",
      "url": "https://www.threads.com/@poet.smirnov/post/DfX6O_TBj-w",
+     "note": null
+    },
+    "tt": {
+     "state": "published",
+     "at": "2026-11-10T08:41",
+     "src": "облако",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7706400989095415072",
      "note": null
     }
    },
@@ -912,6 +919,14 @@
      "watch": null,
      "label": "336 ч",
      "at": "2026-11-20T00:10"
+    },
+    "tt": {
+     "views": 711,
+     "likes": 31,
+     "comments": 0,
+     "watch": "8.7 с",
+     "label": "240 ч",
+     "at": "2026-11-21T00:20"
     }
    },
    "stage": "выложен"
@@ -937,6 +952,13 @@
      "at": "2026-11-06T15:54",
      "src": "облако",
      "url": "https://www.threads.com/@poet.smirnov/post/DfZpx-tiodC",
+     "note": null
+    },
+    "tt": {
+     "state": "published",
+     "at": "2026-11-13T22:53",
+     "src": "облако",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7707746318197837089",
      "note": null
     }
    },
@@ -964,6 +986,14 @@
      "watch": null,
      "label": "336 ч",
      "at": "2026-11-20T16:16"
+    },
+    "tt": {
+     "views": 178,
+     "likes": 5,
+     "comments": 0,
+     "watch": "4.4 с",
+     "label": "168 ч",
+     "at": "2026-11-21T00:20"
     }
    },
    "stage": "выложен"
@@ -989,6 +1019,13 @@
      "at": "2026-11-08T00:45",
      "src": "облако",
      "url": "https://www.threads.com/@poet.smirnov/post/DfdLXeiSYot",
+     "note": null
+    },
+    "tt": {
+     "state": "published",
+     "at": "2026-11-14T08:20",
+     "src": "облако",
+     "url": "https://www.tiktok.com/@poet.smirnov/video/7707892343910747425",
      "note": null
     }
    },
@@ -1016,6 +1053,14 @@
      "watch": null,
      "label": "240 ч",
      "at": "2026-11-18T01:43"
+    },
+    "tt": {
+     "views": 56,
+     "likes": 0,
+     "comments": 0,
+     "watch": "2.3 с",
+     "label": "120 ч",
+     "at": "2026-11-21T00:20"
     }
    },
    "stage": "выложен"
